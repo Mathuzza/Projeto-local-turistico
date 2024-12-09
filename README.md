@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="./Local-turistico.png" alt="Link dark mode">
+<img src="./Local-turistico.jpeg" alt="Link dark mode">
 
 </p>
 
